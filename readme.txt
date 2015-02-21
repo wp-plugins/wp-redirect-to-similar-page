@@ -1,4 +1,4 @@
-=== Single Post Widget ===
+=== WP Redirect to similar page ===
 Contributors: librafire
 Donate link: http://www.librafire.com/
 Tags: 404 redirect, redirect to similar page, no 404 page
